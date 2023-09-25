@@ -23,9 +23,9 @@
 - [diversityviz_F](https://informationisbeautiful.net/visualizations/diversity-in-tech/)
 
 ### decluttering 
-[dark horse analytics](https://www.darkhorseanalytics.com/blog/data-looks-better-naked)
-[data ink ratio explanation](https://www.holistics.io/blog/data-ink-ratio)
-[data ink ratio in use](https://www.youtube.com/watch?v=JIMUzJzqaA8)
+- [dark horse analytics](https://www.darkhorseanalytics.com/blog/data-looks-better-naked)
+- [data ink ratio explanation](https://www.holistics.io/blog/data-ink-ratio)
+- [data ink ratio in use](https://www.youtube.com/watch?v=JIMUzJzqaA8)
 
 
 ### takeaway visual to think on 
