@@ -1,7 +1,7 @@
-# this is M3 materials with QS
+*this is M3 materials with QS* 
 
 
-## Links for the learners:
+### Links for the learners:
 - [digital whiteboard](https://miro.com/app/board/uXjVMhzr5Kk=/?share_link_id=260620856173)
 
   
