@@ -56,3 +56,7 @@ over to you to work through the first practice lab - [simply answering questions
 if you get stuck - theres a suggested solutions workbook available on [tableau public](https://public.tableau.com/app/profile/sianedavies/viz/solutions-simplyansweringquestionswithcharts/frontpage) 
 
 
+## Demonstration B 
+
+Instructor will continue to use the [demonstration workbook](https://public.tableau.com/app/profile/sianedavies/viz/demo_NWind/Freight-productsdatesanddestinations)  which you can download and follow along with. The raw data for these Tableau vizzes is a single excel workbook [BI_NWind_All](BI_NWind_All) 
+
