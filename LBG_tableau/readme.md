@@ -33,3 +33,25 @@ You will create a new Tableau workbook in Tableau Desktop on your LOD, connect t
 use the visual front end to design charts and compile simple interactive dashboards.
 Effective storytelling requires narrative, accompanying the visualisations, so we will explore the ways Tableau allows us to add our own insights and narrative to
 the charts and dashboards, tuned to our audience.
+
+## Demonstration A
+
+instructor will use a [demonstration workbook](https://public.tableau.com/app/profile/sianedavies/viz/demo_NWind/Freight-productsdatesanddestinations) to show the following main features: 
++ connecting to data source file
++ data source view options
++ UI navigation
++ show me menu
++ create a visual using Rows and columns
++ fit window controls
++ sorting
++ Marks card – colour, type, label, tooltip
++ Filtering
++ Aggregation types
++ Dealing with nulls
++ analytics pane - trend lines
+
+### Hands-on practice A
+
+over to you [
+
+
