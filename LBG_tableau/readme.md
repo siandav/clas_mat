@@ -29,14 +29,12 @@ If you experience any problems with logging in to your Tableau desktop you shoul
 
 ### Objective 
 
-You will create a new Tableau workbook in Tableau Desktop on your LOD, connect to raw data sources and learn the basics of the data source layer, before seeing how to
-use the visual front end to design charts and compile simple interactive dashboards.
-Effective storytelling requires narrative, accompanying the visualisations, so we will explore the ways Tableau allows us to add our own insights and narrative to
-the charts and dashboards, tuned to our audience.
+You will get comfortable creating Tableau workbooks in Tableau Desktop on your LOD, connecting to raw data sources and you will learn the basics of the data source layer, before seeing how to use the visual front end in Tableau to design charts and compile simple interactive dashboards.
+Effective storytelling requires narrative, accompanying the visualisations, so we will also explore the ways Tableau allows us to add our own insights and narrative to the charts and dashboards, tuned to our audience.
 
 ## Demonstration A
 
-instructor will use a [demonstration workbook](https://public.tableau.com/app/profile/sianedavies/viz/demo_NWind/Freight-productsdatesanddestinations) to show the following main features: 
+instructor will use a [demonstration workbook](https://public.tableau.com/app/profile/sianedavies/viz/demo_NWind/Freight-productsdatesanddestinations) to demonstrate the following main features: 
 + connecting to data source file
 + data source view options
 + UI navigation
@@ -46,12 +44,12 @@ instructor will use a [demonstration workbook](https://public.tableau.com/app/pr
 + sorting
 + Marks card – colour, type, label, tooltip
 + Filtering
-+ Aggregation types
++ Aggregation
 + Dealing with nulls
 + analytics pane - trend lines
 
 ### Hands-on practice A
 
-over to you [
+over to you to work through the first practice scenario - simply answering questions with Tableau 
 
 
