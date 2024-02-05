@@ -1,4 +1,4 @@
-## Tableau Introduction + Working with GCP and Tableau 
+## Tableau Introduction + Working with Tableau + GCP
 
 These are hands-on activities for working with financial and other data sets in Tableau. Tableau is a data visualisation ecosystem of multiple products: 
 
