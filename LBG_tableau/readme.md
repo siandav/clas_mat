@@ -84,7 +84,8 @@ Instructor will continue to use the [demonstration workbook](https://public.tabl
 + relating and joining tables in Tableau
 + parsing dates using calculated fields
 + working with dates in tableau (parts and values)
-+ dashboard interactivity via actions and filters 
++ dashboard layout including narrative
++ dashboard interactivity via actions and filters
 + connecting to non file data sources incl GCP/ Big Query
 + implications of Tableau & Big Query
 
