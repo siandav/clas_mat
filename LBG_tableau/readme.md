@@ -34,7 +34,8 @@ Effective storytelling requires narrative, accompanying the visualisations, so w
 
 ## Demonstration A
 
-instructor will use a [demonstration workbook](https://public.tableau.com/app/profile/sianedavies/viz/demo_NWind/Freight-productsdatesanddestinations) to demonstrate the following main features: 
+instructor will use a [demonstration workbook](https://public.tableau.com/app/profile/sianedavies/viz/demo_NWind/Freight-productsdatesanddestinations) to demonstrate the following main features. You can download this workbook from tableau public and open it with Tableau desktop if you like!
+
 + connecting to data source file
 + data source view options
 + UI navigation
