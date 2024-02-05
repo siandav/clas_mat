@@ -89,6 +89,11 @@ Instructor will continue to use the [demonstration workbook](https://public.tabl
 + connecting to non file data sources incl GCP/ Big Query
 + implications of Tableau & Big Query
 
+### authenticating between Tableau and GCP 
+
+- as you know working in the cloud is designed to be secure so allowing third party technology access is not always straightforward
+- I have saved some screenshots for connecting tableau to gcp and adding a valid verification mode to your account [here](https://github.com/siandav/clas_mat/blob/main/LBG_tableau/GCP_Tableau_authentication.docx) 
+
 
 ### Hands-on practice Lab C
 
