@@ -45,7 +45,8 @@ instructor will use a [demonstration workbook](https://public.tableau.com/app/pr
 + sorting
 + Marks card – colour, type, label, tooltip
 + Filtering
-+ Aggregation
++ de-aggregation
++ string calculations
 + Dealing with nulls
 + analytics pane - trend lines
 
@@ -58,5 +59,28 @@ if you get stuck - theres a suggested solutions workbook available on [tableau p
 
 ## Demonstration B 
 
-Instructor will continue to use the [demonstration workbook](https://public.tableau.com/app/profile/sianedavies/viz/demo_NWind/Freight-productsdatesanddestinations)  which you can download and follow along with. The raw data for these Tableau vizzes is a single excel workbook [BI_NWind_All](BI_NWind_All) 
+Instructor will continue to use the [demonstration workbook](https://public.tableau.com/app/profile/sianedavies/viz/demo_NWind/Freight-productsdatesanddestinations)  which you can download and follow along with. The raw data for these Tableau vizzes is a single excel workbook [BI_NWind_All.xlsx](BI_NWind_All.xlsx) 
 
++ data source preparation including hierachies, grouping and saving 
++ reporting roles (dimensions v measures, discrete v continuous)
++ aggregation types
++ boolean calculations and aliases
++ table calculations 
++ value and axes formatting
++ assembling a simple dashboard
+
+### Hands-on practice Lab B
+
+over to you to work through the second practice lab - [credit card fraud](https://github.com/siandav/clas_mat/blob/main/LBG_tableau/simply_questions.md)
+
+if you get stuck - theres a suggested solutions workbook available on [tableau public](https://public.tableau.com/app/profile/sianedavies/viz/solutions-simplyansweringquestionswithcharts/frontpage) 
+
+
+
+## Demonstration C 
+
+Instructor will continue to use the [demonstration workbook](https://public.tableau.com/app/profile/sianedavies/viz/demo_NWind/Freight-productsdatesanddestinations)  which you can download and follow along with. The raw data for these Tableau vizzes is a single excel workbook [BI_NWind_All.xlsx](BI_NWind_All.xlsx) 
+
++ connecting to a data source with multiple tables
++ relating and joining tables in Tableau
++ connecting to non file data sources incl GCP
