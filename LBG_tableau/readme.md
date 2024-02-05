@@ -50,6 +50,6 @@ instructor will use a [demonstration workbook](https://public.tableau.com/app/pr
 
 ### Hands-on practice Lab A
 
-over to you to work through the first practice lab - [simply answering questions with Tableau](LBG_tableau/simply_questions.md)
+over to you to work through the first practice lab - [simply answering questions with Tableau](https://github.com/siandav/clas_mat/blob/main/LBG_tableau/simply_questions.md)
 
 
