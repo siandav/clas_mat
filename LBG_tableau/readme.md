@@ -94,5 +94,5 @@ Instructor will continue to use the [demonstration workbook](https://public.tabl
 
 over to you to work through the third practice lab - [bank accounts and loans](https://github.com/siandav/clas_mat/blob/main/LBG_tableau/bank_accounts_and_loans.md)
 
-if you get stuck and need inspiration of what the end result can look like, theres an image on the repo of the [loan status dashboard](https://github.com/siandav/clas_mat/blob/main/LBG_tableau/fraud%20dashboard.png)
+if you get stuck and need inspiration of what the end result can look like, theres an image on the repo of the [loan status dashboard](https://github.com/siandav/clas_mat/blob/main/LBG_tableau/loan_status_review.png)
 
