@@ -48,8 +48,8 @@ instructor will use a [demonstration workbook](https://public.tableau.com/app/pr
 + Dealing with nulls
 + analytics pane - trend lines
 
-### Hands-on practice A
+### Hands-on practice Lab A
 
-over to you to work through the first practice scenario - simply answering questions with Tableau 
+over to you to work through the first practice lab - [simply answering questions with Tableau](LBG_tableau/simply_questions.md)
 
 
