@@ -37,8 +37,6 @@ Effective storytelling requires narrative, accompanying the visualisations, so w
 instructor will use a [demonstration workbook](https://public.tableau.com/app/profile/sianedavies/viz/demo_NWind/Freight-productsdatesanddestinations) to demonstrate the following main features. You can download this workbook from tableau public and open it with Tableau desktop if you like!
 
 + connecting to data source file
-+ data source view options
-+ UI navigation
 + show me menu
 + create a visual using Rows and columns
 + fit window controls
@@ -74,14 +72,23 @@ Instructor will continue to use the [demonstration workbook](https://public.tabl
 
 over to you to work through the second practice lab - [credit card fraud](https://github.com/siandav/clas_mat/blob/main/LBG_tableau/credit_card_fraud.md)
 
-if you get stuck and need inspiration of what the end result can look like, theres an image on the repo of the [final review dashboard](
+if you get stuck and need inspiration of what the end result can look like, theres an image on the repo of the [final review dashboard](https://github.com/siandav/clas_mat/blob/main/LBG_tableau/fraud%20dashboard.png)
 
 
 
 ## Demonstration C 
 
-Instructor will continue to use the [demonstration workbook](https://public.tableau.com/app/profile/sianedavies/viz/demo_NWind/Freight-productsdatesanddestinations)  which you can download and follow along with. The raw data for these Tableau vizzes is a single excel workbook [BI_NWind_All.xlsx](BI_NWind_All.xlsx) 
+Instructor will continue to use the [demonstration workbook](https://public.tableau.com/app/profile/sianedavies/viz/demo_NWind/Freight-productsdatesanddestinations) and the NWind excel workbook [BI_NWind_All.xlsx](BI_NWind_All.xlsx), but this time will bring in the GCP hosted element. We will consider how to work with a multi table bank data source in GCP, and a large data set from Kaggle about [credit card applications](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction) before using both as remote sources for Tableau vizzes. 
 
 + connecting to a data source with multiple tables
 + relating and joining tables in Tableau
-+ connecting to non file data sources incl GCP
++ connecting to non file data sources incl GCP/ Big Query
++ implications of Tableau + Big Query
+
+
+### Hands-on practice Lab C
+
+over to you to work through the third practice lab - [bank accounts and loans](https://github.com/siandav/clas_mat/blob/main/LBG_tableau/credit_card_fraud.md)
+
+if you get stuck and need inspiration of what the end result can look like, theres an image on the repo of the [loan status dashboard](https://github.com/siandav/clas_mat/blob/main/LBG_tableau/fraud%20dashboard.png)
+
