@@ -78,7 +78,7 @@ if you get stuck and need inspiration of what the end result can look like, ther
 
 ## Demonstration C 
 
-Instructor will continue to use the [demonstration workbook](https://public.tableau.com/app/profile/sianedavies/viz/demo_NWind/Freight-productsdatesanddestinations) and the NWind excel workbook [BI_NWind_All.xlsx](BI_NWind_All.xlsx), but this time will bring in the GCP hosted element. We will consider how to work with a multi table bank data source in GCP, and a large data set from Kaggle about [credit card applications](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction) before using both as remote sources for Tableau vizzes. 
+Instructor will continue to use the [demonstration workbook](https://public.tableau.com/app/profile/sianedavies/viz/demo_NWind/Freight-productsdatesanddestinations) and the NWind excel workbook [BI_NWind_All.xlsx](BI_NWind_All.xlsx), but this time will bring in the GCP hosted element. We will consider how to work with a multi table [bank data source](https://github.com/siandav/clas_mat/blob/main/LBG_tableau/bank_data.zip) in GCP, and a large data set from Kaggle about [credit card applications](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction) before using both as remote sources for Tableau vizzes. 
 
 + connecting to a data source with multiple tables
 + relating and joining tables in Tableau
