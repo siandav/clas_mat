@@ -53,4 +53,6 @@ instructor will use a [demonstration workbook](https://public.tableau.com/app/pr
 
 over to you to work through the first practice lab - [simply answering questions with Tableau](https://github.com/siandav/clas_mat/blob/main/LBG_tableau/simply_questions.md)
 
+if you get stuck - theres a suggested solutions workbook available on [tableau public](https://public.tableau.com/app/profile/sianedavies/viz/solutions-simplyansweringquestionswithcharts/frontpage) 
+
 
