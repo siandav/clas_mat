@@ -68,12 +68,13 @@ Instructor will continue to use the [demonstration workbook](https://public.tabl
 + table calculations 
 + value and axes formatting
 + assembling a simple dashboard
++ visual best practices and data storytelling tips 
 
 ### Hands-on practice Lab B
 
-over to you to work through the second practice lab - [credit card fraud](https://github.com/siandav/clas_mat/blob/main/LBG_tableau/simply_questions.md)
+over to you to work through the second practice lab - [credit card fraud](https://github.com/siandav/clas_mat/blob/main/LBG_tableau/credit_card_fraud.md)
 
-if you get stuck - theres a suggested solutions workbook available on [tableau public](https://public.tableau.com/app/profile/sianedavies/viz/solutions-simplyansweringquestionswithcharts/frontpage) 
+if you get stuck and need inspiration of what the end result can look like, theres an image on the repo of the [final review dashboard](
 
 
 
