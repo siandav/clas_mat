@@ -66,7 +66,7 @@ Instructor will continue to use the [demonstration workbook](https://public.tabl
 + table calculations 
 + value and axes formatting
 + assembling a simple dashboard
-+ visual best practices and data storytelling tips 
++ visual data storytelling tips 
 
 ### Hands-on practice Lab B
 
@@ -82,8 +82,11 @@ Instructor will continue to use the [demonstration workbook](https://public.tabl
 
 + connecting to a data source with multiple tables
 + relating and joining tables in Tableau
++ parsing dates using calculated fields
++ working with dates in tableau (parts and values)
++ dashboard interactivity via actions and filters 
 + connecting to non file data sources incl GCP/ Big Query
-+ implications of Tableau + Big Query
++ implications of Tableau & Big Query
 
 
 ### Hands-on practice Lab C
