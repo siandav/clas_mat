@@ -23,7 +23,7 @@ D- loan is in default, payments have been missed
 Also, note that the loan data (including loan amount, status, loan date) and the geographical information (district, region, demographic facts) cannot be joined directly together, so the third table, account, is needed. 
 
 ## step by step instructions 
-1. in a new workbook, add the bank data tables (you will need two data connection types in Tableau)
+1. in a new workbook, add the bank data tables (you will need two data connection types in Tableau) EITHER as local files or from your workign GCP connection to Big Query
 2. relate or join the tables using the appropriate keys
 3. create a new calculated column in the data source view, a derived loan start date, as **DATE(DATEPARSE("yyMMdd",str([Date])))**
 4. in the loan table, amend the status aliases to match data description given at the start of this scenario
