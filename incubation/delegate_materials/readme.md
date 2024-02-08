@@ -10,7 +10,18 @@ https://download-directory.github.io/
 -  videos about tableau https://www.youtube.com/c/tableausoftware
 -  tableau community and forum https://community.tableau.com/s/
 
-### Useful links for Python & ML : 
+### Designing dashboards : 
+- Blog on user focused dashboard design https://www.toucantoco.com/en/blog/how-to-build-user-friendly-efficient-dashboards
+- Blog on definition, through to deployment process https://dataschool.com/how-to-design-a-dashboard/dashboard-design-process/
 
+### Useful links for Python & ML : 
+- pandas user guide https://pandas.pydata.org/docs/user_guide/index.html
+- pandas cheatsheet https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+- seaborn visualisation guide https://seaborn.pydata.org/
+- matplotlib visualisation guide https://matplotlib.org/
+- sklearn directory https://scikit-learn.org/stable/user_guide.html
+- sklearn tutorials https://scikit-learn.org/stable/tutorial/index.html
 
 ### Useful links for PBI and Python Script embedding : 
+- MS learn article https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-scripts
+- blog about matplotlib visuals in pbi https://www.sqlservercentral.com/articles/how-to-visualize-python-charts-in-power-bi
