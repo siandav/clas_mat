@@ -1,3 +1,5 @@
+share github directory download tool (https://download-directory.github.io/) and github repo directory link 
+
 ## Tableau Introduction + Working with Tableau + GCP
 
 These are hands-on activities for working with financial and other data sets in Tableau. Tableau is a data visualisation ecosystem of multiple products: 
@@ -88,6 +90,11 @@ Instructor will continue to use the [demonstration workbook](https://public.tabl
 + dashboard interactivity via actions and filters
 + connecting to non file data sources incl GCP/ Big Query
 + implications of Tableau & Big Query
+
+### authenticating between Tableau and GCP 
+
+- as you know working in the cloud is designed to be secure so allowing third party technology access is not always straightforward
+- I have saved some screenshots for connecting tableau to gcp and adding a valid verification mode to your account [here](https://github.com/siandav/clas_mat/blob/main/LBG_tableau/GCP_Tableau_authentication.docx) 
 
 
 ### Hands-on practice Lab C
