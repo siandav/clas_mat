@@ -10,3 +10,7 @@ https://download-directory.github.io/
 -  videos about tableau https://www.youtube.com/c/tableausoftware
 -  tableau community and forum https://community.tableau.com/s/
 
+### Useful links for Python & ML : 
+
+
+### Useful links for PBI and Python Script embedding : 
