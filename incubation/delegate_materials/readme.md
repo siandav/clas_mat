@@ -12,6 +12,8 @@ https://download-directory.github.io/
 ### Designing dashboards : 
 - Blog on user focused dashboard design https://www.toucantoco.com/en/blog/how-to-build-user-friendly-efficient-dashboards
 - Blog on definition, through to deployment process https://dataschool.com/how-to-design-a-dashboard/dashboard-design-process/
+- Article on 8 Dashboard Design principles https://medium.com/@mokkup/8-essential-dashboard-design-principles-for-effective-data-visualization-40653c5fd135
+- Tableau guide on Visual Best Practices https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm
 
 ### Useful links for Python & ML : 
 - pandas user guide https://pandas.pydata.org/docs/user_guide/index.html
