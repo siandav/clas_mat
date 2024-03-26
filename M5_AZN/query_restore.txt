@@ -1,3 +1,0 @@
-exec msdb.dbo.rds_restore_database
-		@restore_db_name='superstore_demo',
-		@s3_arn_to_restore_from='arn:aws:s3:::2103bucket/superstore_demo.bak';
