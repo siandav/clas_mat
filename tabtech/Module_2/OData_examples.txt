@@ -1,0 +1,7 @@
+OData examples 
+
+https://services.odata.org/V3/Northwind/Northwind.svc 
+
+or 
+
+https://data.seattle.gov/OData.svc/28ny-9ts8
